@@ -1,3 +1,6 @@
+//Game of zuul. Object is to win or lose by collecting or discarding objects and exploring the world.
+//Author: Kian Patton
+//Date: 12/4/2017
 #include "room.h"
 
 struct Obj {
